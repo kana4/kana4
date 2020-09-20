@@ -1,4 +1,5 @@
-### Fun Stuff ??? 199#\-20##
+![Himouto](giphy.gif)
+
 
 [Trends in AirBnB by area](https://www.airdna.co/vacation-rental-data/app/jp/hiroshima-ken/naka-ku/overview)
 
