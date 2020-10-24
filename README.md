@@ -12,7 +12,7 @@
 
 
 
-[Frontend Inspiration](https://codepen.io/topics/)
+[Frontend](https://codepen.io/topics/)
 
 [SQL Practice](https://data.stackexchange.com/stackoverflow/queries)
 
