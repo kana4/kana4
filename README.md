@@ -4,6 +4,8 @@
 
 [Kaggle](https://www.kaggle.com/chrispr)
 
+[やくしまるえつこ『放課後ディストラクション』360°MV](https://www.youtube.com/watch?v=6gu4L9jkl-k)
+
 [あした死ぬには](http://webcomic.ohtabooks.com/ashita/)
 
 [Bikachou Shinshi Kaikoroku](https://chap.manganelo.com/manga-ny89218/chapter-1)
