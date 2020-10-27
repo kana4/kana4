@@ -8,10 +8,6 @@
 
 [Bikachou Shinshi Kaikoroku](https://chap.manganelo.com/manga-ny89218/chapter-1)
 
-[Cha Cha](https://j-mediaarts.jp/en/award/)
-
-
-
 [Frontend](https://codepen.io/topics/)
 
 [SQL Practice](https://data.stackexchange.com/stackoverflow/queries)
