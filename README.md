@@ -1,4 +1,6 @@
-![Himouto](giphy.gif) ![where](tenor.gif)
+
+[あした死ぬには](http://webcomic.ohtabooks.com/ashita/)
+[Bikachou Shinshi Kaikoroku](https://chap.manganelo.com/manga-ny89218/chapter-1)
 
 <a href="https://meta.stackoverflow.com/users/5814011/otsu"><img src="https://meta.stackoverflow.com/users/flair/5814011.png" width="208" height="58" alt="profile for otsu at Meta Stack Overflow, Q&amp;A about the site for professional and enthusiast programmers" title="profile for otsu at Meta Stack Overflow, Q&amp;A about the site for professional and enthusiast programmers"></a>
 
