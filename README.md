@@ -27,5 +27,3 @@
 [ ](https://bazaar.abuse.ch/)
 
 [](https://www.exploit-db.com/google-hacking-database)
-
-[](https://otsukaresamaja.github.io/)
