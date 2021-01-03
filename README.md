@@ -6,7 +6,7 @@
 
 [あした死ぬには](http://webcomic.ohtabooks.com/ashita/)
 
-[Bikachou Shinshi Kaikoroku](https://chap.manganelo.com/manga-ny89218/chapter-1)
+[](https://chap.manganelo.com/manga-ny89218/chapter-1)
 
 [Frontend](https://codepen.io/topics/)
 
