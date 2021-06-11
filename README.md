@@ -6,13 +6,13 @@
 
 [](https://chap.manganelo.com/manga-ny89218/chapter-1)
 
-[Frontend](https://codepen.io/topics/)
+[](https://codepen.io/topics/)
 
-[SQL Practice](https://data.stackexchange.com/stackoverflow/queries)
+[](https://data.stackexchange.com/stackoverflow/queries)
 
-[AirBnB trends](https://www.airdna.co/vacation-rental-data/app/jp/hiroshima-ken/naka-ku/overview)
+[](https://www.airdna.co/vacation-rental-data/app/jp/hiroshima-ken/naka-ku/overview)
 
-[datatable benchmarks](https://h2oai.github.io/db-benchmark/)
+[](https://h2oai.github.io/db-benchmark/)
 
 [](https://www2.deloitte.com/ca/en/pages/about-deloitte/articles/covid-dashboard.html?is=5e8d4f149b0f225dde35ccbe)
 
