@@ -22,8 +22,8 @@
 
 [](https://yomi.yoroi.company/upload)
 
-[.](https://opendata.rapid7.com/)
+[](https://opendata.rapid7.com/)
 
-[ ](https://bazaar.abuse.ch/)
+[](https://bazaar.abuse.ch/)
 
 [](https://www.exploit-db.com/google-hacking-database)
