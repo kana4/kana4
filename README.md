@@ -4,6 +4,7 @@
 
 [Bioinformatics in Rust](https://kana4.github.io/bioinformatics_rust_book/1_0_An_Introduction.html)
 
+![thu](./thumbsup.gif)
 [](http://webcomic.ohtabooks.com/ashita/)
 
 [](https://chap.manganelo.com/manga-ny89218/chapter-1)
