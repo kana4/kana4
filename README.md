@@ -6,7 +6,7 @@
 
 [Docker](https://hub.docker.com/r/windybasket/public)
 
-![thu](./thumbsup.gif)
+[](./thumbsup.gif)
 [](http://webcomic.ohtabooks.com/ashita/)
 
 [](https://chap.manganelo.com/manga-ny89218/chapter-1)
