@@ -2,7 +2,7 @@
 
 [Bioinformatics in Rust](https://kana4.github.io/bioinformatics_rust_book/Chapter_1/1_0_Introduction.html)
 
-[Kaggle](https://www.kaggle.com/chrispr)
+[](https://www.kaggle.com/chrispr)
 
 [Docker](https://hub.docker.com/r/windybasket/public)
 
