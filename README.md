@@ -2,9 +2,11 @@
 
 [Bioinformatics in Rust](https://kana4.github.io/bioinformatics_rust_book/Chapter_1/1_0_Introduction.html)
 
+![bookseller](./bookseller.mp4)
+
 [](https://www.kaggle.com/chrispr)
 
-[Docker](https://hub.docker.com/r/windybasket/public)
+[](https://hub.docker.com/r/windybasket/public)
 
 [](./thumbsup.gif)
 [](http://webcomic.ohtabooks.com/ashita/)
