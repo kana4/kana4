@@ -2,7 +2,7 @@
 
 [Bioinformatics in Rust](https://kana4.github.io/bioinformatics_rust_book/Chapter_1/1_0_Introduction.html)
 
-![bookseller](./bookseller.mp4)
+![bookseller](./bookseller.gif)
 
 [](https://www.kaggle.com/chrispr)
 
