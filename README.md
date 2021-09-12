@@ -1,5 +1,3 @@
-<a href="https://meta.stackoverflow.com/users/5814011/otsu"><img src="https://meta.stackoverflow.com/users/flair/5814011.png" width="208" height="58" alt="profile for otsu at Meta Stack Overflow, Q&amp;A about the site for professional and enthusiast programmers" title="profile for otsu at Meta Stack Overflow, Q&amp;A about the site for professional and enthusiast programmers"></a>
-
 [Bioinformatics in Rust](https://kana4.github.io/bioinformatics_rust_book/Chapter_1/1_0_Introduction.html)
 
 [](./bookseller.gif)
