@@ -1,4 +1,4 @@
-```
+```rust
 use rand::thread_rng;
 use rand::Rng;
 use base64::{decode};
